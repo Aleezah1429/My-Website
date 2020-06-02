@@ -1,0 +1,102 @@
+.navigation{
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+
+.icons{
+    margin-left: 80px;
+    width: 30%;
+}
+
+.image{
+    border: white;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 20px #FBC02D;
+    cursor: pointer;
+    border-radius: 30px; 
+}   
+
+.carousel-inner img{
+    width: 100%;
+}
+
+.carousel-item{
+  height: 600px;
+}
+
+.carousel{
+  position: relative;
+  height: 600px;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #FBC02D;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; 
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #F9A825;
+  }
+
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.box{
+  border: 3px solid #FBC02D; 
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 5px 5px 20px #FBC02D;
+  color: white;
+  text-align: center;
+  box-sizing: 100%;
+}
+
+.card-deck{
+  margin: 30px;
+  text-align: center;
+}
+
+@media screen and (min-width: 576px) {
+  .card-deck{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+  }
+}
+
+.top_to_bottom{
+  width: 70px;
+  height: 70px;
+}
+  
+  
+     
