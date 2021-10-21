@@ -40,7 +40,7 @@ Customer can enter the date and no. of people to book a table online in restaura
 
 After booking a table, thank u message can be shown.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338622-3c418bc2-7a6d-45de-a3b7-f0cc4967d670.png" width="200px" height="200px" />
+<img src="https://user-images.githubusercontent.com/64039135/138345334-f8259ccd-e9d6-42b6-89e3-ba6be25d2a9f.PNG" width="350px" height="400px" />
 
 ## Location
 
