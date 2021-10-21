@@ -36,7 +36,7 @@ After booking a table, thank u card can be shown.
 
 Customer can enter the date and no. of people to book a table online in restaurant.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="450px" height="600px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="450px" height="500px" />
 
 After booking a table, thank u message can be shown.
 
@@ -55,7 +55,7 @@ Customer can easily show all the location of restaurant branches.
 
 It consists of all the information about restaurant like what it can deliver, serves, how long it's been around, and its long-term goals and mission.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338927-b1ec7f9e-8daa-453d-8989-41e26cd49af4.png" width="450px" height="500px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338927-b1ec7f9e-8daa-453d-8989-41e26cd49af4.png" width="430px" height="500px" />
 
 # Contact Us
 
@@ -75,11 +75,11 @@ Menu Page consists of 4 items:
 
 4.	**Party**
 
-<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="400px" height="500px" />
+<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="370px" height="500px" />
 
 All four items page contains cards about various dishes served at your restaurant with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="800px" height="1000px" />
+<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="700px" height="900px" />
 
 # Other Things
 
