@@ -75,11 +75,11 @@ Menu Page consists of 4 items:
 
 4.	**Party**
 
-<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="390px" height="500px" />
+<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="390px" height="480px" />
 
 All four items page contains cards about various dishes served at your restaurant with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="500px" height="900px" />
+<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="500px" height="950px" />
 
 # Other Things
 
