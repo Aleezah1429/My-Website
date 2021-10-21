@@ -75,7 +75,7 @@ Menu Page consists of 4 items:
 
 4.	**Party**
 
-<img src="https://user-images.githubusercontent.com/64039135/135750263-62826696-44a1-4bb2-af22-358778809229.PNG" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="400px" height="700px" />
 
 All four items page contains cards about various dishes served at your restaurant with its price.
 
