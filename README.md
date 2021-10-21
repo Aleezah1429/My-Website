@@ -28,7 +28,7 @@ Customer can enter the date and no. of people to book a table online in restaura
 
 <img src="https://user-images.githubusercontent.com/64039135/138337927-f36443f6-fb2d-4735-af67-66f6ec97d190.png" width="450px" height="600px" />
 
-After booking a table, thank u card can be shown.
+After booking a table, thank u card is shown.
 
 <img src="https://user-images.githubusercontent.com/64039135/138344263-1a48e4e0-6813-4e8c-9214-9f3022fd7962.PNG" width="350px" height="400px" />
 
@@ -36,11 +36,11 @@ After booking a table, thank u card can be shown.
 
 Customer can enter the date and no. of people to book a table online in restaurant.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="450px" height="500px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="420px" height="500px" />
 
-After booking a table, thank u message can be shown.
+After booking a table, thank u message is shown.
 
-<img src="https://user-images.githubusercontent.com/64039135/138345334-f8259ccd-e9d6-42b6-89e3-ba6be25d2a9f.PNG" width="350px" height="400px" />
+<img src="https://user-images.githubusercontent.com/64039135/138345334-f8259ccd-e9d6-42b6-89e3-ba6be25d2a9f.PNG" width="350px" height="380px" />
 
 ## Location
 
