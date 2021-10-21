@@ -79,7 +79,7 @@ Menu Page consists of 4 items:
 
 All four items page contains cards about various dishes served at your restaurant with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="500px" height="1200px" />
+<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="500px" height="1300px" />
 
 # Other Things
 
