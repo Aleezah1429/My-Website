@@ -26,21 +26,21 @@ It consists of search bar which is top on the screen and also a beautiful carous
 
 Customer can enter the date and no. of people to book a table online in restaurant.
 
-<img src="https://user-images.githubusercontent.com/64039135/138337927-f36443f6-fb2d-4735-af67-66f6ec97d190.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138337927-f36443f6-fb2d-4735-af67-66f6ec97d190.png" width="400px" height="600px" />
 
 After booking a table, thank u card can be shown.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338321-55984b7a-2030-4dac-b9db-c417bcb7ee93.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338321-55984b7a-2030-4dac-b9db-c417bcb7ee93.png" width="350px" height="400px" />
 
 ## Online Order
 
 Customer can enter the date and no. of people to book a table online in restaurant.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338558-63ea4035-dd33-42a5-9bf3-c1189f62892b.png" width="400px" height="600px" />
 
 After booking a table, thank u message can be shown.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338622-3c418bc2-7a6d-45de-a3b7-f0cc4967d670.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338622-3c418bc2-7a6d-45de-a3b7-f0cc4967d670.png" width="200px" height="200px" />
 
 ## Location
 
@@ -55,13 +55,13 @@ Customer can easily show all the location of restaurant branches.
 
 It consists of all the information about restaurant like what it can deliver, serves, how long it's been around, and its long-term goals and mission.
 
-<img src="https://user-images.githubusercontent.com/64039135/138338927-b1ec7f9e-8daa-453d-8989-41e26cd49af4.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138338927-b1ec7f9e-8daa-453d-8989-41e26cd49af4.png" width="400px" height="500px" />
 
 # Contact Us
 
 Contact Us page helps for visitors to contact the restaurant easily. This page contains one or more of the following items: name, a telephone number and remarks.
 
-<img src="https://user-images.githubusercontent.com/64039135/138339072-2d749887-54e8-4103-bbd1-0f47afb4f323.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138339072-2d749887-54e8-4103-bbd1-0f47afb4f323.png" width="400px" height="500px" />
 
 # Menu
 
@@ -75,11 +75,11 @@ Menu Page consists of 4 items:
 
 4.	**Party**
 
-<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138342749-47c053c1-aed2-4ae7-bd5a-d41077f2e301.png" width="400px" height="500px" />
 
 All four items page contains cards about various dishes served at your restaurant with its price.
 
-<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="400px" height="700px" />
+<img src="https://user-images.githubusercontent.com/64039135/138339669-6d748b12-72fe-4f94-b557-59a326df2d7a.png" width="500px" height="900px" />
 
 # Other Things
 
